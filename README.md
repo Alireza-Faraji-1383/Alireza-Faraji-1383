@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi there, I'm Alireza Faraji.
+  Hi there, I'm Alireza.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
